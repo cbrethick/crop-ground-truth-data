@@ -1,0 +1,2 @@
+obs_id,lon,lat,survey_date,crop_type,crop_health,crop_variety,sowing_date,harvest_date,growth_stage,actual_yield_t_ha,disease,soil_type,irrigation,field_image,notes,disease_severity_pct,weed_cover_pct,canopy_cover_pct,lodging_pct,plant_height_cm,cut_plot_area_m2,grain_weight_kg,grain_moisture_pct,yield_source,surveyor_id,predicted_health,predicted_yield_index,submitted_at
+web_a4b675447e,80.026497,12.821747,2026-07-28,cotton,healthy,,,,,,,,,images/web_a4b675447e_1.png,,,,,,,,,,,,,,2026-07-28T17:04:46
